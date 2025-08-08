@@ -47,7 +47,6 @@ I’m a Computer Science graduate with hands-on experience in MERN stack web dev
 
 ### 📈 GitHub Stats
 
-![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrh&show_icons=true&theme=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrh&layout=radical)
+![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrh&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sabrh&theme=radical)
-
