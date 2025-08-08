@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/HTrCWDgs/Beige-Modern-Elegant-Personal-Linked-In-Banner.jpg" width="100%" alt="Banner" />
+<img src="https://i.ibb.co.com/t53ypK1/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" width="100%" alt="Banner" />
 
 # Sabrina Haque  
 ### 🌐 Full Stack Web Developer | AI Enthusiast
